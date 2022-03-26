@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/armaankhan8271/ArmaanKhanWeather/static/css/main.e998fc99.css",
+    "main.js": "/armaankhan8271/ArmaanKhanWeather/static/js/main.bd0a2af7.js",
+    "static/js/787.dfe50341.chunk.js": "/armaankhan8271/ArmaanKhanWeather/static/js/787.dfe50341.chunk.js",
+    "static/media/img3.png": "/armaankhan8271/ArmaanKhanWeather/static/media/img3.73ef9c3c611b24b98ade.png",
+    "index.html": "/armaankhan8271/ArmaanKhanWeather/index.html",
+    "main.e998fc99.css.map": "/armaankhan8271/ArmaanKhanWeather/static/css/main.e998fc99.css.map",
+    "main.bd0a2af7.js.map": "/armaankhan8271/ArmaanKhanWeather/static/js/main.bd0a2af7.js.map",
+    "787.dfe50341.chunk.js.map": "/armaankhan8271/ArmaanKhanWeather/static/js/787.dfe50341.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e998fc99.css",
+    "static/js/main.bd0a2af7.js"
+  ]
+}
